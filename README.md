@@ -1,7 +1,7 @@
 # MB (Vietnamese Bank) API THing
 ## Installation
 ``
-npm i mbbank-services@latest
+npm i mbank-api@latest
 ``
 ## Example Usage
 ```js
