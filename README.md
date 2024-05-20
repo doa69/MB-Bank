@@ -1,12 +1,12 @@
 # MB (Vietnamese Bank) API THing
 ## Installation
 ``
-npm i mbank-api@latest
+npm i @doa69/mbbank@latest
 ``
 ## Example Usage
 ```js
 (async () => {
-    const { MB } = require("mbank-api");
+    const { MB } = require("@doa69/mbbank");
     
     const mb = new MB({ username: "phone_number",password:"password" });
 
