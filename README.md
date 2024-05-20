@@ -1,9 +1,9 @@
-#MB (Vietnamese Bank) API THing
-Installation
+# MB (Vietnamese Bank) API THing
+## Installation
 ``
 npm i mbbank-services
 ``
-Example Usage
+## Example Usage
 ```js
 (async () => {
     const { MB } = require("mbbank-services");
